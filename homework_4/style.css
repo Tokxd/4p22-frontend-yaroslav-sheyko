@@ -13,7 +13,7 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
     padding-top: 30px;
-    padding-left: 680px;
+    padding-left: 570px;
     display: flex;
     flex-wrap: wrap;
     row-gap: 25px;
@@ -104,7 +104,8 @@ p {
   }
 
   .footer {
-    margin-left: 640px;
+    padding-left: 500px;
+    padding-top: 25px;
     font-size: 23px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     height: 70px;
@@ -118,3 +119,14 @@ p {
     border-radius:55px;
     background:linear-gradient(45deg,rgb(206, 250, 162), rgb(68, 20, 68));
   }
+
+  .a1 {
+    color: #612121;
+  }
+
+  .a1:hover {
+    background-color: #fff;
+    color: black;
+
+  }
+  
