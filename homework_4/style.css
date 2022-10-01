@@ -9,23 +9,17 @@
     position:relative;
 }
 
-.menu {
+    .menu_1 { 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
     padding-top: 30px;
-    padding-left: 570px;
+    padding-left: 670px;
     display: flex;
     flex-wrap: wrap;
     row-gap: 25px;
     column-gap: 25px;
-}
+    }
 
-.img_1 {
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
-    position:absolute;
-}
 
 a {
     text-decoration: none;
@@ -51,13 +45,13 @@ a:hover {
     display: flex;
     flex-wrap:wrap;
     row-gap: 55px;
-    column-gap: 255px;
+    column-gap: 300px;
 }
 
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    max-width: 200px;
+    max-width: 300px;
     margin: auto;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
